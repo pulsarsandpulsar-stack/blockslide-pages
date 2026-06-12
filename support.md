@@ -88,7 +88,7 @@ We read every message. Please include:
 
 ## Contact
 
-Email: **[YOUR EMAIL]**
+Email: **{pulsarsandpulsar@gmail.com]**
 
 Typical response time: **within 5 business days**.
 
